@@ -29,5 +29,5 @@ Os arquivos aprovados ficam armazenados no S3 de destino e podem ser exibidos no
 A automação garante eficiência, organização e segurança no armazenamento dos arquivos, evitando erros humanos atráves da automatização desses processos. Além de exemplificar o potencial das funções serverless na computação em nuvem.
 
 #### Referências 
-[Docuemntação oficial da AWS](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/olap-using-cfn-template.html)<br/>
+[Documentação oficial da AWS](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/olap-using-cfn-template.html)<br/>
 [Aula + projeto do curso](http://hermes.dio.me/files/assets/36d9c1fc-b2b4-4af7-9bc5-2240f06fddfb.zip)
